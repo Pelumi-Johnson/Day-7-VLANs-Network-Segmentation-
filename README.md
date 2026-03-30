@@ -116,8 +116,7 @@ From PC0:
 
 ping 192.168.1.20  
 
-### 📸 Insert Screenshot Here
-![Ping Test](ping-failure.png)
+![Ping Test](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20123047.png)
 
 ---
 
