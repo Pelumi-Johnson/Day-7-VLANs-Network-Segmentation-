@@ -1,4 +1,4 @@
-# Day 7 | VLANs (Network Segmentation)
+# VLANs (Network Segmentation)
 
 ## 🎯 Objective
 Understand what VLANs are, why networks are segmented, and how switches can control communication between devices.
