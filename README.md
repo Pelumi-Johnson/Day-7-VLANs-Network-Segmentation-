@@ -101,8 +101,12 @@ PC1:
 192.168.1.20  
 255.255.255.0  
 
-### 📸 Insert Screenshot Here
-![IP Configuration](ip-config.png)
+![IP Configuration](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122921.png)
+
+---
+
+![IP Configuration](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122921.png)
+
 
 ---
 
