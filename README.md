@@ -153,7 +153,7 @@ Expected result:
 - VLAN 20 assigned to Fa0/2  
 
 ### 📸 Insert Screenshot Here
-![VLAN Verification](vlan-verify.png)
+![VLAN Verification](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20123228.png)
 
 ---
 
