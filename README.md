@@ -67,8 +67,6 @@ exit
 
 ![VLAN Creation](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122909.png)
 
----
-
 ## 🔌 Port Assignment
 
 Assigned switch ports to VLANs:
@@ -87,10 +85,7 @@ exit
 interface fastEthernet 0/2  
 switchport mode access  
 switchport access vlan 20  
-exit  
-
-### 📸 Insert Screenshot Here
-![Port Assignment](port-assignment.png)
+exit 
 
 ---
 
