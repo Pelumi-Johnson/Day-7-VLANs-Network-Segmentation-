@@ -23,7 +23,8 @@ A VLAN (Virtual Local Area Network) is a logical separation of devices within th
 
 Devices in different VLANs behave as if they are on completely separate networks.
 
-![VLAN Concept](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122140.png)
+### 📸 Insert Screenshot Here
+![VLAN Concept]()
 
 ---
 
@@ -46,8 +47,7 @@ Built a simple topology using:
 
 No router was used in this lab to highlight VLAN isolation.
 
-### 📸 Insert Screenshot Here
-![Topology](topology.png)
+![Topology](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122140.png)
 
 ---
 
@@ -66,8 +66,7 @@ vlan 20
 name IT  
 exit  
 
-### 📸 Insert Screenshot Here
-![VLAN Creation](vlan-create.png)
+![VLAN Creation](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122909.png)
 
 ---
 
