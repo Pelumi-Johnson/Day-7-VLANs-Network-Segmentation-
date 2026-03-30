@@ -23,8 +23,7 @@ A VLAN (Virtual Local Area Network) is a logical separation of devices within th
 
 Devices in different VLANs behave as if they are on completely separate networks.
 
-### 📸 Insert Screenshot Here
-![VLAN Concept](vlan-concept.png)
+![VLAN Concept](https://github.com/Pelumi-Johnson/Day-7-VLANs-Network-Segmentation-/blob/main/Screenshot%202026-03-29%20122140.png)
 
 ---
 
